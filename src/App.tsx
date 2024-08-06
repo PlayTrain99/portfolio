@@ -61,7 +61,7 @@ function MyComponent() {
             <p>Jira</p>
 
           </div>
-          <div className="model"></div>
+          <div className="model" style={{ backgroundImage: "url(images/model.jpg)" }}></div>
         </div>
       </div>
     </div>
